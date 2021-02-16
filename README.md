@@ -2,4 +2,4 @@
 - 👀 I’m interested in programming and writing.
 - 🌱 I’m currently learning DeFi.
 - 💞️ I’m looking to collaborate on blockchain projects
-- 📫 How to reach me ...
+- 📫 You can reach me by github.
