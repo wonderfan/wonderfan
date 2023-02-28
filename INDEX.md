@@ -11,6 +11,11 @@
 - [go-events](https://github.com/SickleZhang/tendermint-go-events)
 - [tm-events](https://github.com/axelarnetwork/tm-events)
 
+## Near
+
+- [indexer](https://github.com/near/nearcore/tree/master/chain/indexer)
+- [event-format](https://nomicon.io/Standards/EventsFormat)
+
 ## Hardhat
 
 - [event-tracer](https://github.com/zemse/hardhat-tracer)
