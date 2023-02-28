@@ -1,5 +1,9 @@
 # Code Repository
 
+## Ethereum
+
+- [web3-event](https://github.com/rsksmart/web3-events)
+
 ## Tendermint
 
 - [go-events](https://github.com/SickleZhang/tendermint-go-events)
