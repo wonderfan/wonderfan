@@ -14,3 +14,7 @@
 ## Hardhat
 
 - [event-tracer](https://github.com/zemse/hardhat-tracer)
+
+## Machine
+
+- [w3bstream](https://github.com/machinefi/w3bstream)
