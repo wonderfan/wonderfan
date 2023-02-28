@@ -5,6 +5,8 @@
 - [web3-event](https://github.com/rsksmart/web3-events)
 - [ethereum-watcher](https://github.com/HydroProtocol/ethereum-watcher)
 - [eth-events](https://github.com/eventeum/eventeum)
+- [event-processor](https://github.com/santiac89/web3-event-processor)
+- [ethereum-events](https://github.com/AleG94/ethereum-events)
 
 ## Tendermint
 
