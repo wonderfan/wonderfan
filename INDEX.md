@@ -3,6 +3,7 @@
 ## Ethereum
 
 - [web3-event](https://github.com/rsksmart/web3-events)
+- [ethereum-watcher](https://github.com/HydroProtocol/ethereum-watcher)
 
 ## Tendermint
 
