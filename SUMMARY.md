@@ -8,6 +8,11 @@
 ## Bridge 
 
 - [Review of Cross-Chain Bridge Hacks](https://arxiv.org/pdf/2210.16209.pdf)
+- [A Survey on Cross-chain Technologies](https://dl.acm.org/doi/pdf/10.1145/3573896)
+
+## Oracle
+
+- [Overview of Blockchain Oracle Research](Overview of Blockchain Oracle Research)
 
 ## NFT
 
