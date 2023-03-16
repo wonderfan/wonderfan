@@ -14,6 +14,10 @@
 
 - [Overview of Blockchain Oracle Research](Overview of Blockchain Oracle Research)
 
+## DID
+
+- [DPKI](https://www.cs.utexas.edu/~dwu4/courses/sp22/static/projects/Kartha.pdf)
+
 ## NFT
 
 - [Pricing](https://arxiv.org/ftp/arxiv/papers/2302/2302.01676.pdf)
