@@ -17,7 +17,7 @@
 
 ## Oracle
 
-- [Overview of Blockchain Oracle Research](Overview of Blockchain Oracle Research)
+- [Overview of Blockchain Oracle Research](https://www.google.com)
 
 ## DID
 
