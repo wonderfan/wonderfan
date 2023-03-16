@@ -2,7 +2,8 @@
 
 ## DLT
 
--[A Comprehensive Survey on DLT](https://servicearchitecture.wp.imtbs-tsp.eu/files/2022/03/ICBC_CONF_2022.pdf)
+- [A Comprehensive Survey on DLT](https://servicearchitecture.wp.imtbs-tsp.eu/files/2022/03/ICBC_CONF_2022.pdf)
+- 
 
 ## Layer 2
 
@@ -25,3 +26,7 @@
 ## NFT
 
 - [Pricing](https://arxiv.org/ftp/arxiv/papers/2302/2302.01676.pdf)
+
+## DEX
+
+- [SoK: Decentralized Exchange](https://discovery.ucl.ac.uk/id/eprint/10161960/1/2103.12732v6.pdf)
