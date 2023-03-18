@@ -22,6 +22,7 @@
 ## DID
 
 - [DPKI](https://www.cs.utexas.edu/~dwu4/courses/sp22/static/projects/Kartha.pdf)
+- [Self-Sovereign Identity Ecosystems: Benefits and Challenges](https://jyx.jyu.fi/bitstream/handle/123456789/77892/Self-Sovereign%2520Identity%2520Ecosystems_%2520Benefits%2520and%2520Challenges.pdf?sequence=1)
 
 ## NFT
 
