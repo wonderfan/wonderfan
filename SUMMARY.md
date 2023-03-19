@@ -26,7 +26,10 @@
 - [Self-Sovereign Identity Systems:Evaluation Framework](https://www.researchgate.net/profile/Mariusz-Nowostawski/publication/339836401_Self-Sovereign_Identity_Systems_Evaluation_Framework/links/5ea16363a6fdcc88fc364f02/Self-Sovereign-Identity-Systems-Evaluation-Framework.pdf)
 - [Self-Sovereign Identity Solution](https://arxiv.org/pdf/1904.12816.pdf)
 - [DID and VC](https://dl.acm.org/doi/fullHtml/10.1145/3446983.3446992)
-- 
+- [Digital Identities and Verifiable Credentials](https://link.springer.com/article/10.1007/s12599-021-00722-y)
+- [Registry for Decentralized Identifier](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9146840)
+- [A Survey of Self-Sovereign Identity Ecosystem](https://www.hindawi.com/journals/scn/2021/8873429/)
+- [UPORT: A PLATFORM FOR SELF-SOVEREIGN IDENTIT](https://whitepaper.uport.me/uPort_whitepaper_DRAFT20161020.pdf)
 
 ## NFT
 
