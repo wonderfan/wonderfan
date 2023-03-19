@@ -24,7 +24,7 @@
 - [DPKI](https://www.cs.utexas.edu/~dwu4/courses/sp22/static/projects/Kartha.pdf)
 - [Self-Sovereign Identity Ecosystems: Benefits and Challenges](https://jyx.jyu.fi/bitstream/handle/123456789/77892/Self-Sovereign%2520Identity%2520Ecosystems_%2520Benefits%2520and%2520Challenges.pdf?sequence=1)
 - [Self-Sovereign Identity Systems:Evaluation Framework](https://www.researchgate.net/profile/Mariusz-Nowostawski/publication/339836401_Self-Sovereign_Identity_Systems_Evaluation_Framework/links/5ea16363a6fdcc88fc364f02/Self-Sovereign-Identity-Systems-Evaluation-Framework.pdf)
-- [Self-Sovereign Identity Solution](https://arxiv.org/pdf/1904.12816.pdf)
+- [Self-Sovereign Identity Solution:The Necessity of Blockchain Technology](https://arxiv.org/pdf/1904.12816.pdf)
 - [DID and VC](https://dl.acm.org/doi/fullHtml/10.1145/3446983.3446992)
 - [Digital Identities and Verifiable Credentials](https://link.springer.com/article/10.1007/s12599-021-00722-y)
 - [Registry for Decentralized Identifier](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9146840)
