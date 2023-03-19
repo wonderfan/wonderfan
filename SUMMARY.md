@@ -3,7 +3,7 @@
 ## DLT
 
 - [A Comprehensive Survey on DLT](https://servicearchitecture.wp.imtbs-tsp.eu/files/2022/03/ICBC_CONF_2022.pdf)
-- 
+
 
 ## Layer 2
 
@@ -34,6 +34,7 @@
 - [A Truly Self-Sovereign Identity System](https://arxiv.org/pdf/2007.00415.pdf)
 - [A Survey on Essential Components of a Self-Sovereign Identity](https://arxiv.org/pdf/1807.06346.pdf)
 - [W3C Decentralized Identifiers](https://arxiv.org/pdf/2012.00136.pdf)
+- [A Survey of Self-Sovereign Identity Ecosystem](https://downloads.hindawi.com/journals/scn/2021/8873429.pdf)
 
 ## NFT
 
