@@ -33,7 +33,7 @@
 - [Deployment of a Blockchain-Based Self-Sovereign Identity](https://arxiv.org/pdf/1806.01926.pdf)
 - [A Truly Self-Sovereign Identity System](https://arxiv.org/pdf/2007.00415.pdf)
 - [A Survey on Essential Components of a Self-Sovereign Identity](https://arxiv.org/pdf/1807.06346.pdf)
-- 
+- [W3C Decentralized Identifiers](https://arxiv.org/pdf/2012.00136.pdf)
 
 ## NFT
 
