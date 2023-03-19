@@ -32,6 +32,8 @@
 - [UPORT: A PLATFORM FOR SELF-SOVEREIGN IDENTIT](https://whitepaper.uport.me/uPort_whitepaper_DRAFT20161020.pdf)
 - [Deployment of a Blockchain-Based Self-Sovereign Identity](https://arxiv.org/pdf/1806.01926.pdf)
 - [A Truly Self-Sovereign Identity System](https://arxiv.org/pdf/2007.00415.pdf)
+- [A Survey on Essential Components of a Self-Sovereign Identity](https://arxiv.org/pdf/1807.06346.pdf)
+- 
 
 ## NFT
 
