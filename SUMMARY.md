@@ -36,6 +36,8 @@
 - [W3C Decentralized Identifiers](https://arxiv.org/pdf/2012.00136.pdf)
 - [A Survey of Self-Sovereign Identity Ecosystem](https://downloads.hindawi.com/journals/scn/2021/8873429.pdf)
 - [Design Patterns for Blockchain-based Self-Sovereign Identity](https://arxiv.org/pdf/2005.12112.pdf)
+- [Self-Sovereign Identity Specifications](https://publications.aston.ac.uk/id/eprint/41998/1/SSI_Specifications_uPort_SovrinDrNitinNaik.pdf)
+- [e Classification of Self-Sovereign Identity Propert](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9858139)
 
 ## NFT
 
