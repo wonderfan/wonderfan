@@ -48,3 +48,7 @@
 ## DEX
 
 - [SoK: Decentralized Exchange](https://discovery.ucl.ac.uk/id/eprint/10161960/1/2103.12732v6.pdf)
+
+## ZKP
+
+- [A Review of zk-SNARK](https://arxiv.org/pdf/2202.06877.pdf)
