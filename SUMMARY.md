@@ -35,6 +35,7 @@
 - [A Survey on Essential Components of a Self-Sovereign Identity](https://arxiv.org/pdf/1807.06346.pdf)
 - [W3C Decentralized Identifiers](https://arxiv.org/pdf/2012.00136.pdf)
 - [A Survey of Self-Sovereign Identity Ecosystem](https://downloads.hindawi.com/journals/scn/2021/8873429.pdf)
+- [Design Patterns for Blockchain-based Self-Sovereign Identity](https://arxiv.org/pdf/2005.12112.pdf)
 
 ## NFT
 
