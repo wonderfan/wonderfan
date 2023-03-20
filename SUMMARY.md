@@ -38,6 +38,8 @@
 - [Design Patterns for Blockchain-based Self-Sovereign Identity](https://arxiv.org/pdf/2005.12112.pdf)
 - [Self-Sovereign Identity Specifications](https://publications.aston.ac.uk/id/eprint/41998/1/SSI_Specifications_uPort_SovrinDrNitinNaik.pdf)
 - [e Classification of Self-Sovereign Identity Propert](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9858139)
+- [EXPLORING SELF-SOVEREIGN IDENTITY](https://arxiv.org/ftp/arxiv/papers/2105/2105.15131.pdf)
+- [Decentralized and Self-Sovereign Identity](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9558805)
 
 ## NFT
 
