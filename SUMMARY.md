@@ -42,6 +42,8 @@
 - [EXPLORING SELF-SOVEREIGN IDENTITY](https://arxiv.org/ftp/arxiv/papers/2105/2105.15131.pdf)
 - [Decentralized and Self-Sovereign Identity](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9558805)
 - [Zero-Knowledge Verifiable Credential System for Self-Sovereign Identity](https://eprint.iacr.org/2022/1297.pdf)
+- [Self-Sovereign Identity as a Service](https://arxiv.org/pdf/2205.08314.pdf)
+- 
 
 ## NFT
 
