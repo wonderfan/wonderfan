@@ -3,6 +3,7 @@
 ## DLT
 
 - [A Comprehensive Survey on DLT](https://servicearchitecture.wp.imtbs-tsp.eu/files/2022/03/ICBC_CONF_2022.pdf)
+- [SoK on Blockchain](https://eprint.iacr.org/2023/315.pdf)
 
 
 ## Layer 2
