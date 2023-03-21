@@ -41,6 +41,7 @@
 - [e Classification of Self-Sovereign Identity Propert](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9858139)
 - [EXPLORING SELF-SOVEREIGN IDENTITY](https://arxiv.org/ftp/arxiv/papers/2105/2105.15131.pdf)
 - [Decentralized and Self-Sovereign Identity](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9558805)
+- [Zero-Knowledge Verifiable Credential System for Self-Sovereign Identity](https://eprint.iacr.org/2022/1297.pdf)
 
 ## NFT
 
