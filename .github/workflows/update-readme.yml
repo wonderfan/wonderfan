@@ -1,0 +1,22 @@
+name: Update README
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Update README
+        run: |
+          sed -i '/## Updated on/d' README.md
+          echo "## Updated on $(date)" >> README.md
+          git config --local user.email "fanjiahe2000@163.com"
+          git config --local user.name "wonderfan"
+          git add README.md
+          git commit -m "chore: update action"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
